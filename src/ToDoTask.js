@@ -58,7 +58,7 @@ class ToDoTask extends React.Component {
                     <div className="widget-content p-0">
                       <div className="widget-content-wrapper">
                         <div className="widget-content-left">
-                          <div className="widget-heading">>{this.props.task.name}</div>
+                          <div className="widget-heading">{this.props.task.name}</div>
                           <div className="widget-subheading">{this.props.task.description}</div>
                         </div>
                         <div className="widget-content-right">
